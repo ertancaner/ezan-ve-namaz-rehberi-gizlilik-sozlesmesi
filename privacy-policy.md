@@ -33,5 +33,5 @@ Bu Gizlilik Politikası'nı zaman zaman güncelleyebiliriz. Herhangi bir değiş
 
 Gizlilik politikamız, uygulamamızın kullanımı veya karşılaştığınız herhangi bir sorun ile ilgili soru, öneri, istek veya şikayetleriniz için bizimle iletişime geçebilirsiniz:
 
-* **E-posta:** vibecoderdevelope@gmail.com
-* **Geliştirici:** Vibe Coder Development
+* **E-posta:** hello@futuritydev.com
+* **Geliştirici:** Futurity Dev
