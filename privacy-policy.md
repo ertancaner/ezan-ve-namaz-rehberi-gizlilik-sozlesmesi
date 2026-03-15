@@ -1,37 +1,127 @@
-# Gizlilik Politikası (Privacy Policy)
+# Privacy Policy - EN
+
+**Application Name:** Adhan & Prayer Guide  
+**Developer:** Futurity Dev  
+**Last Updated:** March 15, 2026  
+
+Thank you for using **Adhan & Prayer Guide** developed by Futurity Dev ("we", "us", or "our"). Protecting the privacy of our users is one of our highest priorities. This Privacy Policy explains what information may be used when you use our application and how it is handled.
+
+## 1. Information Usage
+
+The application may request access to certain device features in order to provide its core functionality.
+
+### Location Information
+
+The app may request access to your device location (GPS or network-based location) to calculate accurate prayer times, determine the Qibla direction, and show nearby mosques.
+
+Location data is processed **only locally on the device** and is **not transmitted, stored, or shared** with our servers or any third parties.
+
+### Notifications
+
+The app may request permission to send notifications in order to remind users of prayer times. Notifications are optional and can be enabled or disabled at any time from the app settings.
+
+## 2. Third-Party Services
+
+The application may use third-party services for certain features.
+
+### Map Services
+
+The "Find Nearby Mosques" feature may open map services such as Apple Maps or Google Maps to display nearby mosques. When redirected to these services, the privacy policies of those providers apply.
+
+**Google Privacy Policy:**  
+https://policies.google.com/privacy
+
+## 3. Data Security
+
+The application does not store personal data or location history on any servers. All necessary calculations (such as Qibla direction and prayer time calculations) are performed locally on the user's device.
+
+The application **does not collect, store, or share personal user data**.
+
+## 4. Children's Privacy
+
+The application can be used by users of all ages. The app does not request or collect personal information such as names, email addresses, or phone numbers from users, including children.
+
+## 5. Advertising Services
+
+The application may use third-party advertising services to support the app experience. Specifically, **Google AdMob** may be used to display advertisements.
+
+Google AdMob may use device information or advertising identifiers to show more relevant advertisements.
+
+More information about Google's data usage can be found at:  
+https://policies.google.com/privacy
+
+## 6. Changes to This Privacy Policy
+
+This Privacy Policy may be updated from time to time. Any changes will be published on this page and will become effective immediately upon publication.
+
+## 7. Contact
+
+If you have any questions regarding this Privacy Policy or the application, you may contact us:
+
+**Email:** hello@futuritydev.com  
+**Developer:** Futurity Dev
+
+
+
+# Gizlilik Politikası - TR 
 
 **Uygulama Adı:** Ezan ve Namaz Rehberi  
-**Geliştirici:** Vibe Coder Development  
-**Son Güncelleme Tarihi:** 24 Şubat 2026  
+**Geliştirici:** Futurity Dev  
+**Son Güncelleme Tarihi:** 15 Mart 2026  
 
-**Vibe Coder Development** ("biz", "bize" veya "bizim") tarafından geliştirilen **Ezan ve Namaz Rehberi** ("Uygulama") uygulamasını kullandığınız için teşekkür ederiz. Kullanıcılarımızın gizliliğini korumak bizim için en yüksek önceliklerden biridir. Bu Gizlilik Politikası, uygulamamızı kullandığınızda hangi bilgileri neden topladığımızı ve bu bilgileri nasıl kullandığımızı açıklamaktadır.
+Futurity Dev ("biz", "bize" veya "bizim") tarafından geliştirilen **Ezan ve Namaz Rehberi** ("Uygulama") uygulamasını kullandığınız için teşekkür ederiz. Kullanıcılarımızın gizliliğini korumak bizim için en yüksek önceliklerden biridir. Bu Gizlilik Politikası, uygulamamızı kullandığınızda hangi bilgilerin neden kullanıldığını ve bu bilgilerin nasıl işlendiğini açıklamaktadır.
 
 ## 1. Toplanan Bilgiler ve Kullanım Amaçları
 
-Uygulamamız, size en iyi deneyimi sunabilmek için cihazınızın bazı özelliklerine erişim talep edebilir. Bu veriler tamamen size özel hizmetler sunmak amacıyla kullanılır:
+Uygulamamız, bazı özelliklerin çalışabilmesi için cihazınızın belirli özelliklerine erişim talep edebilir. Bu veriler yalnızca uygulamanın işlevlerini yerine getirebilmesi amacıyla kullanılmaktadır.
 
-* **Konum Bilgisi:** Uygulamamız, bulunduğunuz konuma ait ezan vakitlerini doğru bir şekilde hesaplayabilmek ve "Kıble Bulucu" özelliğinin çalışabilmesi için cihazınızın konum verisine (GPS ve ağ tabanlı) ihtiyaç duyar. Bu konum verisi **sadece cihazınızda anlık olarak işlenir**, hiçbir şekilde uzak sunucularımıza gönderilmez, kaydedilmez veya üçüncü şahıslarla paylaşılmaz.
-* **Bildirimler:** Ezan vakitlerinde size hatırlatma yapabilmek için cihazınıza bildirim (push notification) gönderme izni talep ediyoruz. Bu özellik tamamen sizin kontrolünüzdedir; uygulama içi ayarlardan bildirimleri dilediğiniz zaman açabilir veya kapatabilirsiniz.
+### Konum Bilgisi
 
-## 2. Üçüncü Taraf Hizmetleri ve Yönlendirmeler
+Uygulama, bulunduğunuz konuma göre doğru namaz vakitlerini hesaplayabilmek, kıble yönünü belirleyebilmek ve yakındaki camileri gösterebilmek için cihazınızın konum verisine (GPS veya ağ tabanlı konum) erişim isteyebilir.
 
-Uygulamamız içerisinde yer alan "En Yakın Camiyi Bul" özelliği, size kolaylık sağlamak amacıyla tasarlanmıştır. Bu butona tıkladığınızda, uygulama sizi cihazınızda yüklü olan Google Haritalar (Google Maps) uygulamasına veya tarayıcınıza yönlendirir ve "mosque" (cami) araması yapar. Bu işlem sırasında konum verileriniz bizim tarafımızdan toplanmaz. Yönlendirme sonrası geçerli olan gizlilik koşulları, Google'ın kendi [Gizlilik Politikası'na](https://policies.google.com/privacy) tabidir.
+Konum verisi **yalnızca cihaz üzerinde anlık olarak işlenir**. Bu bilgiler hiçbir şekilde sunucularımıza gönderilmez, kaydedilmez veya üçüncü taraflarla paylaşılmaz.
+
+### Bildirimler
+
+Uygulama, ezan vakitlerinde hatırlatma sağlayabilmek amacıyla cihazınıza bildirim göndermek için izin isteyebilir. Bildirimler tamamen isteğe bağlıdır ve uygulama ayarları üzerinden istediğiniz zaman açılıp kapatılabilir.
+
+## 2. Üçüncü Taraf Hizmetleri
+
+Uygulama bazı durumlarda üçüncü taraf hizmetleri kullanabilir.
+
+### Harita Hizmetleri
+
+"En Yakın Camiyi Bul" özelliği, cihazınızda bulunan Apple Maps veya Google Maps gibi harita servislerini kullanarak yakındaki camileri gösterebilir. Bu işlem sırasında konum verileriniz uygulama tarafından toplanmaz. Harita servislerinin veri kullanımı kendi gizlilik politikalarına tabidir.
+
+**Google Gizlilik Politikası:**  
+https://policies.google.com/privacy
 
 ## 3. Veri Güvenliği
 
-Uygulamamız, kişisel verilerinizi veya konum geçmişinizi sunucularda depolamadığı için veri ihlali riskini minimumda tutar. İhtiyaç duyulan hesaplamalar (kıble açısı, namaz vakitleri vb.) doğrudan kendi cihazınızın işlemcisi kullanılarak lokal olarak yapılır.
+Uygulama, kullanıcıların kişisel verilerini veya konum geçmişini sunucularda depolamaz. Gerekli hesaplamalar (kıble yönü, namaz vakitleri vb.) doğrudan cihazınız üzerinde gerçekleştirilir.
+
+Uygulama kullanıcıya ait kişisel verileri **toplamaz, saklamaz veya üçüncü taraflarla paylaşmaz**.
 
 ## 4. Çocukların Gizliliği
 
-Bu uygulama her yaş grubundan kullanıcıya hitap etmektedir ve çocukların kullanımına uygundur. Uygulama, kullanıcılardan (çocuklar dahil) isim, e-posta, telefon numarası gibi kişisel kimlik bilgilerini talep etmez veya toplamaz.
+Uygulama her yaş grubundan kullanıcı tarafından kullanılabilir. Uygulama, çocuklar dahil olmak üzere kullanıcılardan isim, e-posta adresi, telefon numarası gibi kişisel kimlik bilgileri talep etmez veya toplamaz.
 
-## 5. Gizlilik Politikasındaki Değişiklikler
+## 5. Reklam Hizmetleri
 
-Bu Gizlilik Politikası'nı zaman zaman güncelleyebiliriz. Herhangi bir değişiklik yapmamız durumunda, güncellenmiş politikayı uygulamamız içerisinde veya bu sayfa üzerinden yayınlayarak sizi bilgilendireceğiz. Politikadaki değişiklikler yayınlandığı andan itibaren geçerli sayılır.
+Uygulama kullanıcı deneyimini desteklemek amacıyla üçüncü taraf reklam hizmetleri kullanabilir. Bu kapsamda **Google AdMob** reklam ağı kullanılmaktadır.
 
-## 6. İletişim
+Google AdMob, reklamların daha ilgili şekilde gösterilebilmesi için cihaz bilgileri veya reklam kimliği gibi bazı anonim verileri kullanabilir.
 
-Gizlilik politikamız, uygulamamızın kullanımı veya karşılaştığınız herhangi bir sorun ile ilgili soru, öneri, istek veya şikayetleriniz için bizimle iletişime geçebilirsiniz:
+Google'ın veri kullanımı hakkında daha fazla bilgi için:  
+https://policies.google.com/privacy
 
-* **E-posta:** hello@futuritydev.com
-* **Geliştirici:** Futurity Dev
+## 6. Gizlilik Politikasındaki Değişiklikler
+
+Bu gizlilik politikası zaman zaman güncellenebilir. Herhangi bir değişiklik yapılması durumunda güncellenmiş politika bu sayfada yayınlanacaktır. Değişiklikler yayınlandığı tarihten itibaren geçerli olur.
+
+## 7. İletişim
+
+Gizlilik politikası veya uygulama hakkında herhangi bir sorunuz olması durumunda bizimle iletişime geçebilirsiniz.
+
+**E-posta:** hello@futuritydev.com  
+**Geliştirici:** Futurity Dev
